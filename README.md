@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data engineering
 - 📫 I can be contacted at ieuanapwilliams@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My interest in Tech started with optimising systems
+
 
 <!---
 dascrew/dascrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
