@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dascrew
-- 👀 I’m interested in using programming, data and creativity to create solutions
-- 🌱 I’m currently learning data engineering
+- 👋 Hi, I’m Ieuan!
+- 👀 I’m interested in using programming, data and creativity to achieve solutions
+- 🌱 I’m currently learning how to expand my data engineering skills
 - 📫 I can be contacted at ieuanapwilliams@gmail.com
 - 😄 Pronouns: He/Him
 
