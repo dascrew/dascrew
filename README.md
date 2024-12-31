@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ieuan!
-- 👀 I’m interested in using programming, data and creativity to achieve solutions
-- 🌱 I’m currently learning how to expand my data engineering skills
+- 👀 I’m interested in using programming, data and creativity to achieve business solutions
+- 🌱 I’m currently developing my data engineering skills with an ETL pipeline project for a web app
 - 📫 I can be contacted at ieuanapwilliams@gmail.com
 - 😄 Pronouns: He/Him
 
