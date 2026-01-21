@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ieuan!
 - 👀 I’m interested in using programming, data and creativity to achieve business solutions
-- 🌱 I’m currently working on greenfield 
+- 🌱 I’m currently working on php and python projects
 - 📫 I can be contacted at ieuanapwilliams@gmail.com
 - 😄 Pronouns: He/Him
 
