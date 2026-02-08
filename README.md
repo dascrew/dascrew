@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ieuan!
-- 👀 I’m interested in using programming, data and creativity to achieve business solutions
-- 🌱 I’m currently working on php and python projects
-- 📫 I can be contacted at ieuanapwilliams@gmail.com
+- 👋 Hi, I’m Ieuan! Engineer and DBA with enterprise experience
+- 👀 I’m interested in using my skills to give value to others
+- 🌱 I’m currently working on an educational tool for learning disabilities
+- 📫 I can be contacted at ieuan@literallyclearer.org
 - 😄 Pronouns: He/Him
 
 
