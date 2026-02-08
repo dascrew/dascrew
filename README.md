@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ieuan! Engineer and DBA with enterprise experience
+- 👋 Hi, I’m Ieuan! Engineer, DBA and sometimes consultant with enterprise experience
 - 👀 I’m interested in using my skills to give value to others
 - 🌱 I’m currently working on an educational tool for learning disabilities
 - 📫 I can be contacted at ieuan@literallyclearer.org
